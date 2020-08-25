@@ -1,0 +1,10 @@
+C:\Users\jacob\Desktop\Debil's Rust Script\obj\x64\Debug\Debil's Rust Script.csprojAssemblyReference.cache
+C:\Users\jacob\Desktop\Debil's Rust Script\obj\x64\Debug\Debil's Rust Script.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Debil's Rust Script\bin\Debug\Debil's Rust Script.exe.config
+C:\Users\jacob\Desktop\Debil's Rust Script\bin\Debug\Debil's Rust Script.exe
+C:\Users\jacob\Desktop\Debil's Rust Script\bin\Debug\Debil's Rust Script.pdb
+C:\Users\jacob\Desktop\Debil's Rust Script\bin\Debug\MetroFramework.dll
+C:\Users\jacob\Desktop\Debil's Rust Script\bin\Debug\Siticone.UI.dll
+C:\Users\jacob\Desktop\Debil's Rust Script\obj\x64\Debug\Debil's Rust Script.csproj.CopyComplete
+C:\Users\jacob\Desktop\Debil's Rust Script\obj\x64\Debug\Debil's Rust Script.exe
+C:\Users\jacob\Desktop\Debil's Rust Script\obj\x64\Debug\Debil's Rust Script.pdb
